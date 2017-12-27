@@ -11,7 +11,7 @@ setup(
     author=AUTHOR,
     description='Create Ansible playbook skeletons',
     install_requires=[
-        'Click'
+        'Click',
     ],
     exta_requires={
 
