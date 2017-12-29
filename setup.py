@@ -13,7 +13,7 @@ setup(
     install_requires=[
         'Click',
     ],
-    exta_requires={
+    extras_require={
 
     },
     packages=find_packages(),
